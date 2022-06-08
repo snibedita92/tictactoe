@@ -1,5 +1,4 @@
 package com.tictactoe.stage1;
-
 public class Main {
     public static void main(String[] args) {
         System.out.println("X O X");
@@ -7,7 +6,6 @@ public class Main {
         System.out.println("X X O");
     }
 }
-
 
 
 
