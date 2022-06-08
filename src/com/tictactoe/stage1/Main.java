@@ -1,4 +1,4 @@
-package tictactoe;
+package com.tictactoe.stage1;
 
 public class Main {
     public static void main(String[] args) {
